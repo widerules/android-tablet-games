@@ -1,0 +1,1 @@
+This project has all of the code mentioned in the book.  Feel free to use it and modify it as you want in your Android endeavors.
